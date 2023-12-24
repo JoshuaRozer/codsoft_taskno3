@@ -41,7 +41,7 @@ The Simple Calculator is a minimalistic tool that enables users to perform basic
 ## Author
 
 - **Joshua Rozer Dasan**
-  - [GitHub Profile](https://github.com/your-username)
+  - [GitHub Profile](https://github.com/JoshuaRozer)
   - [LinkedIn Profile](https://www.linkedin.com/in/joshuarozer/)
 
 ## Contribution
